@@ -27,6 +27,5 @@ const projects = [
     image: new URL('../assets/geo_fish_logger.png', import.meta.url).href,
     link: "https://geo-tagged-fish-catcher.web.app"
   },
-  // You can add more projects here
 ]
 </script>

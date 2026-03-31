@@ -46,6 +46,7 @@ const certifications = [
   { title: "AWS Generative AI Foundations", institute: "AWS Academy", image: getImageUrl('cert_aws_ai.jpg'), link: "https://www.credly.com/badges/dda141b1-7279-42ef-b2d1-2b35689d82b9/linked_in_profile" },
   { title: "Networking Basics", institute: "Cisco", image: getImageUrl('cert_networking_cisco.jpg'), link: "https://www.credly.com/badges/f764f1ff-9977-4aaf-8ac1-f0153ce3139c/linked_in_profile" },
   { title: "Linux Unhatched", institute: "Cisco", image: getImageUrl('cert_linux_unhatched.jpg'), link: "https://www.credly.com/badges/447a8524-cb44-40c8-840a-98869f2b7e4c/linked_in_profile" }
+  { title: "AWS Cloud Practitioner", institute: "AWS Academy", image: getImageUrl('blob.jpg'), link: "https://www.credly.com/badges/83eeee3f-9652-4d3f-89f4-7a77f66e34eb/public_url" }
 ]
 
 const showModal = ref(false)
