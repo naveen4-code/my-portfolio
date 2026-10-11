@@ -7,7 +7,7 @@
       
       </p>
       <a 
-        href="/Naveen_Raj_Resume.pdf" 
+        href="/Naveen_Raj_K_Resume.pdf" 
         download 
         class="inline-block bg-blue-600 text-white px-5 py-2 rounded-lg shadow hover:bg-blue-700 transition"
         >
